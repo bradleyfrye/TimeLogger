@@ -1,0 +1,11 @@
+D:\Acumium Projects\Timelogger\Timelogger\bin\Debug\netcoreapp2.0\Timelogger.deps.json
+D:\Acumium Projects\Timelogger\Timelogger\bin\Debug\netcoreapp2.0\Timelogger.runtimeconfig.json
+D:\Acumium Projects\Timelogger\Timelogger\bin\Debug\netcoreapp2.0\Timelogger.runtimeconfig.dev.json
+D:\Acumium Projects\Timelogger\Timelogger\bin\Debug\netcoreapp2.0\Timelogger.dll
+D:\Acumium Projects\Timelogger\Timelogger\obj\Debug\netcoreapp2.0\Timelogger.csprojResolveAssemblyReference.cache
+D:\Acumium Projects\Timelogger\Timelogger\obj\Debug\netcoreapp2.0\Timelogger.csproj.CoreCompileInputs.cache
+D:\Acumium Projects\Timelogger\Timelogger\obj\Debug\netcoreapp2.0\Timelogger.AssemblyInfoInputs.cache
+D:\Acumium Projects\Timelogger\Timelogger\obj\Debug\netcoreapp2.0\Timelogger.AssemblyInfo.cs
+D:\Acumium Projects\Timelogger\Timelogger\bin\Debug\netcoreapp2.0\Timelogger.pdb
+D:\Acumium Projects\Timelogger\Timelogger\obj\Debug\netcoreapp2.0\Timelogger.dll
+D:\Acumium Projects\Timelogger\Timelogger\obj\Debug\netcoreapp2.0\Timelogger.pdb
